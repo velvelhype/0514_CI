@@ -1,26 +1,26 @@
-	Basic test          : [OK]		0.002249s
-	Long string test    : [OK]		0.001816s
-	One letter test     : [OK]		0.001725s
-	Zero length test    : [OK]		0.001713s
-	Non-printable test  : [OK]		0.001693s
+	Basic test          : [OK]		0.001939s
+	Long string test    : [OK]		0.001849s
+	One letter test     : [OK]		0.001700s
+	Zero length test    : [OK]		0.001677s
+	Non-printable test  : [OK]		0.001599s
 5 / 5 tests checked
 
-	Basic test                    : [OK]		0.002164s
-	Minus test                    : [OK]		0.001623s
-	Plus test                     : [OK]		0.001631s
-	Space test                    : [OK]		0.001614s
-	Space test                    : [OK]		0.001697s
-	Space minus test              : [OK]		0.001499s
-	Space plus test               : [OK]		0.001541s
-	Plus minus test               : [OK]		0.001504s
-	Void string test              : [OK]		0.001518s
-	Floating point number test    : [OK]		0.001804s
-	Non digit tail test           : [OK]		0.002425s
-	Int max test                  : [OK]		0.001565s
-	Int mini test                 : [OK]		0.001590s
-	Overflow test                 : [OK]		0.001485s
-	Underflow test                : [OK]		0.001619s
-	Zero test                     : [OK]		0.001511s
-	000 head test                 : [OK]		0.001487s
+	Basic test                    : [OK]		0.001600s
+	Minus test                    : [OK]		0.001543s
+	Plus test                     : [OK]		0.001519s
+	Space test                    : [OK]		0.001441s
+	Space test                    : [OK]		0.001946s
+	Space minus test              : [OK]		0.001551s
+	Space plus test               : [OK]		0.001550s
+	Plus minus test               : [OK]		0.001512s
+	Void string test              : [OK]		0.001566s
+	Floating point number test    : [OK]		0.001376s
+	Non digit tail test           : [OK]		0.001370s
+	Int max test                  : [OK]		0.001351s
+	Int mini test                 : [OK]		0.001356s
+	Overflow test                 : [OK]		0.001412s
+	Underflow test                : [OK]		0.001736s
+	Zero test                     : [OK]		0.001515s
+	000 head test                 : [OK]		0.001412s
 17 / 17 tests checked
 
